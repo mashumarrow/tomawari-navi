@@ -1,3 +1,6 @@
+# 遠回りナビ
+[解説スライド（PDF）はこちら](./docs/成果報告書(2).pdf)
+
 # tomawari-navi 
 
 `db` / `backend` / `frontend` を Docker Compose でまとめて起動する開発用雛形です。
