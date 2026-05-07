@@ -1,6 +1,6 @@
 # 遠回りナビ
 [プロダクトのURL](https://tomawari-navi.up.railway.app/)</br></br>
-[解説スライド（PDF）](./docs/成果報告書(2).pdf)</br></br>
+[解説スライド（PDF）](./docs/成果報告書 (2).pdf)</br></br>
 <img width="1012" height="561" alt="スクリーンショット 2026-04-22 132056" src="https://github.com/user-attachments/assets/86b140d3-8bec-41d7-a9b8-a87bda49ac71" />
 
 # tomawari-navi 
